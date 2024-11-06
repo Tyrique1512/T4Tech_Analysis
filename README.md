@@ -19,8 +19,7 @@ Founded in 2018, T4Tech is an e-commerce company that sells popular electronics 
 
 •	The LATAM and APAC regions show significantly lower total sales revenue and volumes compared to other regions, despite comparable average order values. Furthermore, the APAC region has the highest AOV of all the regions. This suggests increased competition in these areas and highlights the need to enhance customer base, product offering and brand awareness.
 
-![image](https://github.com/user-attachments/assets/e33f2bae-7faa-4fca-a349-38db3021dd21)
-
+<img src="https://github.com/user-attachments/assets/d97d9a2f-a402-4193-a4ea-32b5fdfaa9fa" width="500">  <img src="https://github.com/user-attachments/assets/f1560c02-9e1c-4112-acb7-25cbe90af0f2" width="500">
 
 
 
