@@ -13,7 +13,7 @@ Founded in 2018, T4Tech is an e-commerce company that sells popular electronics 
 ## Regional Trends
 •	In all regions, 2020 saw the highest growth rate in total sales, nearly doubling both sales numbers and revenue compared to 2019. This shows that growth was driven by a global macroeconomic factor, which was the Covid-19 pandemic. Total sales revenue and volumes in March 2020 were approximately 50% higher than in February 2020, coinciding with the pandemic’s onset. 
 
-•	The LATAM and APAC regions show significantly lower total sales revenue and volumes compared to other regions, despite comparable average order values. This suggests increased competition in these areas and highlights the need to enhance customer base and brand awareness.
+•	The LATAM and APAC regions show significantly lower total sales revenue and volumes compared to other regions, despite comparable average order values. Furthermore, the APAC region has the highest AOV of all the regions. This suggests increased competition in these areas and highlights the need to enhance customer base, product offering and brand awareness.
 
 •	In 2022, total sales revenue and volumes declined sharply by approximately 50% and 40%, respectively, due to the global semiconductor chip shortage. As semiconductor chips are essential for all T4Tech products, this shortage led to severe supply constraints despite high demand.
 
