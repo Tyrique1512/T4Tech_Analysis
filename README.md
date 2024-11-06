@@ -9,7 +9,7 @@ Founded in 2018, T4Tech is an e-commerce company that sells popular electronics 
 
 •	The year 2020 experienced a significant growth rate in total sales, order count and AOV, achieving over twice the sales volume and total revenue compared to 2019. Although 2021 saw an increase in the number of sales, the overall revenue declined as customers opted for items that were, on average, 15% less expensive than those purchased in 2020.
 
-![image](https://github.com/user-attachments/assets/3a2372ea-d80a-42b0-a2dc-edd42f8b80b4)
+![image](https://github.com/user-attachments/assets/4de45a5b-118c-494e-82f0-d9ab99416e25)
 
 
 ## Regional Trends
