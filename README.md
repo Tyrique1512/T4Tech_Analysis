@@ -17,7 +17,8 @@ Founded in 2018, T4Tech is an e-commerce company that sells popular electronics 
 
 •	In 2022, total sales revenue and volumes declined sharply in all regions by approximately 50% and 40%, respectively, due to a macroeconomic factor which was the global semiconductor chip shortage. As semiconductor chips are essential for all T4Tech products, this shortage led to severe supply constraints despite high demand.
 
-![image](https://github.com/user-attachments/assets/89f2e5d9-483c-4d7c-a8f8-f274dedc741d); ![image](https://github.com/user-attachments/assets/82112566-35a0-4a9f-aafd-de4061d1ae7c)
-
 •	The LATAM and APAC regions show significantly lower total sales revenue and volumes compared to other regions, despite comparable average order values. Furthermore, the APAC region has the highest AOV of all the regions. This suggests increased competition in these areas and highlights the need to enhance customer base, product offering and brand awareness.
+
+![image](https://github.com/user-attachments/assets/89f2e5d9-483c-4d7c-a8f8-f274dedc741d); ![image](https://github.com/user-attachments/assets/550ba184-89f4-4eb1-9f40-8cfc4c72cbf9)
+
 
