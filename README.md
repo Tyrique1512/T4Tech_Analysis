@@ -22,8 +22,15 @@ Founded in 2018, T4Tech is an e-commerce company that sells popular electronics 
 <img src="https://github.com/user-attachments/assets/d97d9a2f-a402-4193-a4ea-32b5fdfaa9fa" width="500">  <img src="https://github.com/user-attachments/assets/f1560c02-9e1c-4112-acb7-25cbe90af0f2" width="500">
 
 ## Product Trends
+### Macro-level product trends
 •	In 2020, total sales revenue and volumes for all products saw a significant increase, with the MacBook Air achieving over four times the sales revenue and volumes compared to 2019, while the ThinkPad laptop experienced more than a threefold increase. The onset of the pandemic drove demand for these products as students and corporate employees sought them for their work-from-home setups.
 
 •	In 2022, all products experienced a sharp decline in total sales revenue and volumes, underscoring the impact of supply constraints from the global semiconductor chip shortage, despite strong demand.
 
+### Best and worst performing products
+•	The 27-inch gaming monitor, Apple AirPods, and MacBook Air are consistently the top three products in terms of total revenue contribution. For total order count, the best performers are the Apple AirPods, 27-inch gaming monitor, and Samsung charging cable. The Samsung charging cable has a high order count but low revenue contribution due to many zero-dollar sales, indicating it may be given away as a complimentary accessory or that transaction values are not accurately recorded. This issue should be discussed with the data management and sales teams.
+
+•	Conversely, the Bose SoundSport headphones, Apple iPhone, and Samsung webcam are the three worst performers in revenue contribution. The Samsung webcam, despite strong initial sales, has seen a steady decline. The Bose SoundSport headphones are underperforming in sales volume and revenue, averaging the third-lowest purchase price, suggesting a need for re-evaluation of its shelf presence. All three are also the lowest in order volume.
+
+•	The MacBook Air, ThinkPad laptop, and Apple iPhone consistently have the highest average sales values. While the Apple iPhone boasts a high average order value, it does not perform well in order count or total revenue. 
 
