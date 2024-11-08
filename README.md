@@ -24,4 +24,6 @@ Founded in 2018, T4Tech is an e-commerce company that sells popular electronics 
 ## Product Trends
 •	In 2020, total sales revenue and volumes for all products saw a significant increase, with the MacBook Air achieving over four times the sales revenue and volumes compared to 2019, while the ThinkPad laptop experienced more than a threefold increase. The onset of the pandemic drove demand for these products as students and corporate employees sought them for their work-from-home setups.
 
+•	In 2022, all products experienced a sharp decline in total sales revenue and volumes, underscoring the impact of supply constraints from the global semiconductor chip shortage, despite strong demand.
+
 
