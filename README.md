@@ -28,7 +28,9 @@ Founded in 2018, T4Tech is an e-commerce company that sells popular electronics 
 •	In 2022, all products experienced a sharp decline in total sales revenue and volumes, underscoring the impact of supply constraints from the global semiconductor chip shortage, despite strong demand.
 
 ### Best and worst performing products
-•	The 27-inch gaming monitor, Apple AirPods, and MacBook Air are consistently the top three products in terms of total revenue contribution. For total order count, the best performers are the Apple AirPods, 27-inch gaming monitor, and Samsung charging cable. The Samsung charging cable has a high order count but low revenue contribution due to many zero-dollar sales, indicating it may be given away as a complimentary accessory or that transaction values are not accurately recorded. This issue should be discussed with the data management and sales teams.
+•	The 27-inch gaming monitor, Apple AirPods, and MacBook Air are consistently the top three products in terms of total revenue contribution. For total order count, the best performers are the Apple AirPods, 27-inch gaming monitor, and Samsung charging cable. 
+
+•	The Samsung charging cable has a high order count but low revenue contribution due to many zero-dollar sales, indicating it may be given away as a complimentary accessory or that transaction values are not accurately recorded. This issue should be discussed with the data management and sales teams.
 
 •	Conversely, the Bose SoundSport headphones, Apple iPhone, and Samsung webcam are the three worst performers in revenue contribution. The Samsung webcam, despite strong initial sales, has seen a steady decline. The Bose SoundSport headphones are underperforming in sales volume and revenue, averaging the third-lowest purchase price, suggesting a need for re-evaluation of its shelf presence. All three are also the lowest in order volume.
 
