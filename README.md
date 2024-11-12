@@ -23,7 +23,7 @@ The dataset consisted of four tables, including information about order values, 
 ## Regional Trends
 •	In all regions, 2020 saw the highest growth rate in total sales, nearly doubling both sales numbers and revenue compared to 2019, indicating growth was driven by a global macroeconomic factor, which was the Covid-19 pandemic. Total sales revenue and volumes in March 2020 were approximately 50% higher than in February 2020, coinciding with the pandemic’s onset. 
 
-•	In 2022, total sales revenue and volumes declined sharply in all regions by approximately 50% and 40%, respectively, due to a macroeconomic factor which was the global semiconductor chip shortage. **As semiconductor chips are essential for all T4Tech products, this shortage led to severe supply constraints despite high demand.**
+•	In 2022, total sales revenue and volumes declined sharply in all regions by approximately 50% and 40%, respectively, due to a macroeconomic factor which was the global semiconductor chip shortage. **As semiconductor chips are essential for all T4Tech products, this global shortage led to severe supply constraints despite high demand.**
 
 •	The LATAM and APAC regions show significantly lower total sales revenue and volumes compared to other regions, **despite comparable average order values.** 
 
