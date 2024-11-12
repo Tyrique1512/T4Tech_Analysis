@@ -36,3 +36,9 @@ Founded in 2018, T4Tech is an e-commerce company that sells popular electronics 
 
 •	The MacBook Air, ThinkPad laptop, and Apple iPhone consistently have the highest average sales values. While the Apple iPhone boasts a high average order value, it does not perform well in order count or total revenue. 
 
+## Seasonality
+•	Total sales revenue and volume typically experience the strongest growth during the holiday season (November to December) each year.
+
+•	Following this peak, both metrics see a sharp decline, with a subsequent recovery occurring between July and September.
+
+•	The most significant drops in sales revenue and volume are observed in February and October each year.
