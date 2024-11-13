@@ -51,3 +51,15 @@ The dataset consisted of four tables, including information about order values, 
 •	Following this peak, both metrics see a sharp decline, indicating typical post-holiday spending patterns, with a subsequent recovery occurring between July and September.
 
 •	On average, the most significant drops in sales revenue and volume are observed in February (-23%) and October (-35%) each year, showing that **T4Tech's customers typically withhold spending in anticipation of summer and holiday season sales promotions.** 
+
+## Loyalty Program Performance
+•	In 2019, non-loyalty members drove around 90% of sales revenue and volume, with higher average spending ($232) compared to loyalty members ($185).
+
+•	By 2020, loyalty program performance improved, contributing 30% of sales revenue and 37% of volume. Loyalty members’ average spending rose to $225 but remained below the $344 average for non-loyalty members.
+
+•	In 2021 and early 2022, loyalty members became the primary revenue source, averaging 55% of total revenue and volume. In 2022, loyalty members spent more per purchase ($240) than non-loyalty members ($215).
+
+•	In Q4 2022, non-loyalty members contributed over 60% of total sales revenue and volume, suggesting reduced effectiveness of the loyalty program in driving sales during that period
+
+•	The MacBook Air remains a top seller, yet 90% of its revenue and volume come from non-loyalty members, who have had lower order values. This suggests potential revenue growth through loyalty program engagement.
+
