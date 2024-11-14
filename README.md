@@ -31,6 +31,8 @@ The dataset consisted of four tables, including information about order values, 
 
 •	Furthermore, the APAC region has the highest AOV of all the regions, suggesting increased competition in the region and highlighting the need to enhance customer base, product offering and brand awareness.
 
+![image](https://github.com/user-attachments/assets/714e6365-8ec9-4a42-9f2e-81e784d65296)
+
 
 ## Product Trends
 ### Macro-level product trends
