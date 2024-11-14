@@ -63,3 +63,13 @@ The dataset consisted of four tables, including information about order values, 
 
 •	The MacBook Air remains a top seller, yet 90% of its revenue and volume come from non-loyalty members, who have had lower order values. This suggests potential revenue growth through loyalty program engagement.
 
+## Refund Rates
+•	From 2019 to 2022, refunds were issued for 5,3k of 108k orders, **resulting in a 5% overall refund rate.**
+
+•	Refunds peaked in 2020 with a 9.2% rate, likely as customers tested new brands and products for remote work setups but regretted some purchases. In that year, the MacBook Air and ThinkPad laptop had the highest refund rates at 17% each.
+
+•	Apple AirPods were the most refunded product in 2020, with 1,5k returns. Apple products made up 60% of that year's 3.1k refunds. 
+
+•	Over the entire period, the MacBook Air and ThinkPad laptops had the highest refund rates at 11% and 12%, potentially due to defects.
+
+•	Refund rates dropped sharply after 2020, falling to 3.6% in 2021 and 0% in 2022, **reflecting significant improvements in T4Tech's quality control.**
