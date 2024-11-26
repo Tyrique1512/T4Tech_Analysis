@@ -1,5 +1,5 @@
 # T4Tech Sales Performance - Project Overview
-**The goal of this project is to investigate the overall sales trends and growth rates at T4Tech between 2019 and 2022, together with the performance of its loyalty program and refund rates to surface recommendations for future marketing campaigns.**
+**The goal of this project is to investigate the overall sales trends and growth rates at T4Tech between 2019 and 2022, together with the performance of its loyalty program and refund rates to surface recommendations for the sales and marketing teams for future marketing campaigns.**
 
 ## Project Background
 Founded in 2018, T4Tech is an e-commerce company that sells popular electronics products and has since expanded to a global customer base. Like most e-commerce companies, T4Tech sells products through its online site and mobile app. They use a variety of marketing channels to reach customers, including Email campaigns, SEO, and affiliate links. Over the last few years, their more popular products have been products from Apple, Samsung, and ThinkPad. T4Tech aims to harness a wealth of incoming user data to uncover valuable insights essential for identifying opportunities and informing strategic decisions, ensuring they remain competitive in their market niche.
