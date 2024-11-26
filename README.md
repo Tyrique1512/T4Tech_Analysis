@@ -11,7 +11,8 @@ The dataset consisted of four tables, including information about order values, 
 <img src="https://github.com/user-attachments/assets/e9872fe0-c2c5-43b2-a0a4-6e5b37f45a34" width="700">
 
 
-# Yearly Summary and Growth Rates
+# Insights Deep-dive
+## Yearly Summary and Growth Rates
 •	On average, there were 27k sales each year, generating an average annual revenue of approximately $7 million, with the average order value standing at $254. 
 
 •	The year 2021 recorded the peak in sales volume at 36k, whereas 2020 had the highest average order value at $300.
@@ -23,7 +24,7 @@ The dataset consisted of four tables, including information about order values, 
 ![image](https://github.com/user-attachments/assets/7e7607b0-8ee3-4088-bb24-cc3c4f25a78b)
 
 
-## Regional Trends
+## Regional Performance
 •	In all regions, 2020 saw the highest growth rate in total sales, nearly doubling both sales numbers and revenue compared to 2019, indicating growth was driven by a global macroeconomic factor, which was the Covid-19 pandemic. Total sales revenue and volumes in March 2020 were approximately 50% higher than in February 2020, coinciding with the pandemic’s onset. 
 
 •	In 2022, total sales revenue and volumes declined sharply in all regions by approximately 50% and 40%, respectively, due to a macroeconomic factor which was the global semiconductor chip shortage. **As semiconductor chips are essential for all T4Tech products, this global shortage led to severe supply constraints despite high demand.**
@@ -34,7 +35,7 @@ The dataset consisted of four tables, including information about order values, 
 
 ![image](https://github.com/user-attachments/assets/5fd96eca-cfa6-4fa0-8932-b9338099c7d3)
 
-## Product Trends
+## Key Product Performance
 ### Macro-level product trends
 •	In 2020, total sales revenue and volumes for all products saw a significant increase, **with the MacBook Air achieving over four times the sales revenue and volumes compared to 2019, while the ThinkPad laptop experienced more than a threefold increase.** The onset of the pandemic drove demand for these products as students and corporate employees sought them for their work-from-home setups.
 
@@ -67,9 +68,7 @@ The dataset consisted of four tables, including information about order values, 
 
 •	The MacBook Air remains a top seller, yet 90% of its revenue and volume come from non-loyalty members, who have had lower order values. This suggests potential revenue growth through loyalty program engagement.
 
-## Refund Rates
-•	From 2019 to 2022, refunds were issued for 5,3k of 108k orders, **resulting in a 5% overall refund rate.**
-
+## Refund Rate Trends
 •	Refunds peaked in 2020 with a 9.2% rate, likely as customers tested new brands and products for remote work setups but regretted some purchases. In that year, the MacBook Air and ThinkPad laptop had the highest refund rates at 17% each.
 
 •	Apple AirPods were the most refunded product in 2020, with 1,5k returns. Apple products made up 60% of that year's 3.1k refunds. 
