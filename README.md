@@ -32,9 +32,17 @@ The dataset consisted of four tables, including information about order dates an
 
 
 
-![image](https://github.com/user-attachments/assets/bfd8eee4-3249-4bbf-8d21-2cb085e10ae1)
+![image](https://github.com/user-attachments/assets/ea48b702-413f-4dd7-8f6e-c6aa82432efd)
 
-_The bottom table shows the month-over-month growth rate between each of the 4 years_
+
+_The bottom table shows the month-over-month growth rate % between each of the 4 years_
+
+### Seasonality
+•	Total sales revenue and volume typically experience the strongest growth during the holiday season (November to December) each year, with December experiencing around 20% growth on average.
+
+•	Following this peak, both metrics see a sharp decline, indicating typical post-holiday spending patterns, with a subsequent recovery occurring between July and September.
+
+•	On average, the most significant drops in sales revenue and volume are observed in February (-23%) and October (-35%) each year, showing that **T4Tech's customers typically withhold spending in anticipation of summer and holiday season sales promotions.** 
 
 
 ## Regional Performance
@@ -62,13 +70,6 @@ _The bottom table shows the month-over-month growth rate between each of the 4 y
 •	Conversely, the Bose SoundSport headphones, Apple iPhone, and Samsung webcam are the three worst performers in revenue contribution. The Samsung webcam, despite strong initial sales, has seen a steady decline. The Bose SoundSport headphones are underperforming in sales volume and revenue, averaging the third-lowest purchase price ($124) , suggesting a need for re-evaluation of its shelf presence. **All three are also the lowest in order volume.**
 
 •	The MacBook Air ($1588) , ThinkPad laptop ($1100) , and Apple iPhone ($740) consistently have the highest average sales values. **While the Apple iPhone boasts a high average order value, it does not perform well in order count or total revenue contribution.** This indicates a potential opportunity for growth in iPhone sales through financing options or bundling with other products, as T4Tech's customers may see it as an expensive product with limited appeal compared to other products
-
-## Seasonality
-•	Total sales revenue and volume typically experience the strongest growth during the holiday season (November to December) each year, with December experiencing around 20% growth on average.
-
-•	Following this peak, both metrics see a sharp decline, indicating typical post-holiday spending patterns, with a subsequent recovery occurring between July and September.
-
-•	On average, the most significant drops in sales revenue and volume are observed in February (-23%) and October (-35%) each year, showing that **T4Tech's customers typically withhold spending in anticipation of summer and holiday season sales promotions.** 
 
 ## Loyalty Program Performance
 •	In 2019, non-loyalty members drove around 90% of sales revenue and volume, with higher average spending ($232) compared to loyalty members ($185).
