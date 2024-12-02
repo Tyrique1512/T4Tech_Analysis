@@ -5,7 +5,15 @@
 - [Dataset Structure](#dataset-structure)
 - [Executive Summary](#executive-summary)
 - [Insights Deep-dive](#insights-deep-dive)
-- 
+  - [Yearly Summary and Growth Rates](#yearly-summary-and-growth-rates)
+  -   [Seasonality](#seasonality)
+  - [Regional Performance](#regional-performance)
+  - [Key Product Performance](#key-product-performance)
+  -   [Macro-level product trends](#macro-level-product-trends)
+  -   [Best and worst performing products](#best-and-worst-performing-products)
+  - [Loyalty Program Performance](#loyalty-program-performance)
+  - [Refund rate trends](#refund-rate-trends)
+ - [Recommendations](#recommendations)
 
 
 # Project Overview
