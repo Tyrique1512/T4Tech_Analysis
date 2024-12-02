@@ -1,3 +1,8 @@
+# T4Tech Sales Performance Analysis
+
+# Table of Contents
+- [Project Background](#project-background)
+
 # T4Tech Sales Performance - Project Overview
 **The goal of this project is to investigate the overall sales trends and growth rates at T4Tech between 2019 and 2022, together with the performance of its loyalty program and refund rates to surface recommendations for the sales and marketing teams for future marketing campaigns.**
 
