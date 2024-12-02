@@ -28,7 +28,13 @@ The dataset consisted of four tables, including information about order dates an
 
 •	Although 2021 saw an increase in the number of sales, the overall revenue declined as customers opted for items that were, on average, 15% less expensive than those purchased in 2020.
 
-![image](https://github.com/user-attachments/assets/7e7607b0-8ee3-4088-bb24-cc3c4f25a78b)
+![image](https://github.com/user-attachments/assets/963f6db8-a2ee-41ef-8841-1df1686a9ed4)
+
+
+
+![image](https://github.com/user-attachments/assets/bfd8eee4-3249-4bbf-8d21-2cb085e10ae1)
+
+_The bottom table shows the month-over-month growth rate between each of the 4 years_
 
 
 ## Regional Performance
