@@ -1,9 +1,9 @@
 # T4Tech Sales Performance Analysis
 
 # Table of Contents
-- [T4Tech Sales Performance Project Overview](#t4tech-sales-performance-project-overview)
+- [Project Overview](#project-overview)
 
-# T4Tech Sales Performance Project Overview
+# Project Overview
 
 Founded in 2018, T4Tech is an e-commerce company specialising in popular electronics, now serving a global customer base. They sell products through their online site and mobile app, utilising marketing channels like email campaigns, SEO, and affiliate links. Their top-selling products include brands like Apple, Samsung, and ThinkPad. T4Tech leverages user data to gain insights that inform strategic decisions, helping them stay competitive in their niche.
 
