@@ -32,7 +32,9 @@ The dataset consisted of four tables, including information about order dates an
 
 
 
-![image](https://github.com/user-attachments/assets/57c49901-0021-4181-83f5-17990383c36f)
+![image](https://github.com/user-attachments/assets/e6d95cf0-ecf3-4972-84d8-841e8a9e19cb)
+
+
 
 
 
