@@ -1,7 +1,7 @@
 # T4Tech Sales Performance Analysis
 
 # Table of Contents
-- [T4Tech Sales Performance - Project Overview](#t4tech-sales-performance--project-overview)
+- [T4Tech Sales Performance - Project Overview](#t4tech-sales-performance-project-overview)
 
 # T4Tech Sales Performance - Project Overview
 
