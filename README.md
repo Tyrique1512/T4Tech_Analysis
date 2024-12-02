@@ -4,16 +4,18 @@
 - [Project Background](#project-background)
 
 # T4Tech Sales Performance - Project Overview
-**The goal of this project is to investigate the overall sales trends and growth rates at T4Tech between 2019 and 2022, together with the performance of its loyalty program and refund rates to surface recommendations for the sales and marketing teams for future marketing campaigns.**
 
-## Project Background
-Founded in 2018, T4Tech is an e-commerce company that sells popular electronics products and has since expanded to a global customer base. Like most e-commerce companies, T4Tech sells products through its online site and mobile app. They use a variety of marketing channels to reach customers, including Email campaigns, SEO, and affiliate links. Over the last few years, their more popular products have been products from Apple, Samsung, and ThinkPad. T4Tech aims to harness a wealth of incoming user data to uncover valuable insights essential for identifying opportunities and informing strategic decisions, ensuring they remain competitive in their market niche.
+Founded in 2018, T4Tech is an e-commerce company specialising in popular electronics, now serving a global customer base. They sell products through their online site and mobile app, utilising marketing channels like email campaigns, SEO, and affiliate links. Their top-selling products include brands like Apple, Samsung, and ThinkPad. T4Tech leverages user data to gain insights that inform strategic decisions, helping them stay competitive in their niche.
+
+The goal of this project is to investigate the overall sales trends and growth rates at T4Tech between 2019 and 2022, together with the performance of its loyalty program and refund rates. This will be leveraged to surface recommendations for the sales and marketing teams for future marketing campaigns and to assess whether T4Tech should continue its Loyalty Programme.
 
 # Dataset Structure
 
 The dataset consisted of four tables, including information about order values, customer acquision methods, purchase location and purchase times, as well as loyalty program adoption data.
 
 <img src="https://github.com/user-attachments/assets/e9872fe0-c2c5-43b2-a0a4-6e5b37f45a34" width="700">
+
+# Executive Summary
 
 
 # Insights Deep-dive
