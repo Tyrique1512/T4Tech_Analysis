@@ -2,6 +2,11 @@
 
 ### Table of Contents
 - [Project Overview](#project-overview)
+- [Dataset Structure](#dataset-structure)
+- [Executive Summary](#executive-summary)
+- [Insights Deep-dive](#insights-deep-dive)
+- 
+
 
 # Project Overview
 
@@ -96,3 +101,5 @@ _The bottom table shows the month-over-month growth rate % between each of the 4
 •	Over the entire period, the MacBook Air and ThinkPad laptops had the highest refund rates at 11% and 12%, potentially due to defects.
 
 •	Refund rates dropped sharply after 2020, falling to 3.6% in 2021 and 0% in 2022, **reflecting significant improvements in T4Tech's quality control.**
+
+# Recommendations
