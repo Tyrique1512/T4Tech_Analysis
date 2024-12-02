@@ -11,7 +11,7 @@ The goal of this project is to investigate the overall sales trends and growth r
 
 # Dataset Structure
 
-The dataset consisted of four tables, including information about order dates and order values, customer acquision methods and loyalty program adoption rates, order delivery time and refund rates, and purchase location data.
+The dataset consisted of four tables, including information about order dates & order values, customer acquision methods & loyalty program adoption rates, order delivery time & refund rates, and purchase location data.
 
 <img src="https://github.com/user-attachments/assets/e9872fe0-c2c5-43b2-a0a4-6e5b37f45a34" width="700">
 
