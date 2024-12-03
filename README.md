@@ -48,10 +48,7 @@ The dataset consisted of four tables, including information about order dates & 
 
 
 
-![image](https://github.com/user-attachments/assets/e6d95cf0-ecf3-4972-84d8-841e8a9e19cb)
-
-
-
+![image](https://github.com/user-attachments/assets/e75c5a4f-a321-46e8-bdd8-49e4aae1eda1)
 
 
 _The bottom table shows the month-over-month growth rate % between each of the 4 years_
