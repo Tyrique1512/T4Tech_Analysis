@@ -96,7 +96,7 @@ _The bottom table shows the month-over-month growth rate % between each of the 4
 
 •	In Q4 2022, non-loyalty members contributed over 60% of total sales revenue and volume, suggesting reduced effectiveness of the loyalty program in driving sales during that period
 
-•	The MacBook Air remains a top seller, yet 90% of its revenue and volume come from non-loyalty members, who have had lower order values. This suggests potential revenue growth through loyalty program engagement.
+•	**The MacBook Air remains a top seller, yet 90% of its revenue and volume come from non-loyalty members**, who have had lower order values. This suggests potential revenue growth through loyalty program engagement.
 
 ## Refund Rate Trends
 •	Refunds peaked in 2020 with a 9.2% rate, likely as customers tested new brands and products for remote work setups but regretted some purchases. In that year, the MacBook Air and ThinkPad laptop had the highest refund rates at 17% each.
