@@ -107,7 +107,8 @@ _The bottom table shows the month-over-month growth rate % between each of the 4
 
 •	Refund rates dropped sharply after 2020, falling to 3.6% in 2021 and 0% in 2022, **reflecting significant improvements in T4Tech's quality control.**
 
-![image](https://github.com/user-attachments/assets/e61bfdd7-f967-4ffb-bb31-811ecc378122)
+![image](https://github.com/user-attachments/assets/6521f589-17ef-46e4-bf00-78168521b250)
+
 
 
 # Recommendations
