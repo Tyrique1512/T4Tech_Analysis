@@ -33,7 +33,7 @@ The dataset consisted of four tables, including information about order dates & 
 
 # Insights Deep-dive
 ## Yearly Summary and Growth Rates
-•	On average, there were 27k sales each year, generating an average annual revenue of approximately $7 million, with the average order value standing at $254. 
+•	On average, there were 27k sales each year, generating an average annual revenue of approximately $7 million, with the average order value standing at $260. 
 
 •	The year 2021 recorded the peak in sales volume at 36k, whereas 2020 had the highest average order value at $300.
 
