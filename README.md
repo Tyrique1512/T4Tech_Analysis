@@ -34,7 +34,7 @@ The dataset consisted of four tables, including information about order dates & 
 
 •	Initially, T4Tech's sales primarily came from non-loyalty program members. However, by 2022, **loyalty members became the main revenue source**, contributing an average of 55% to total revenue and sales volume. Therefore, T4Tech should continue using its loyalty program due its strong performance. 
 
-•	There is an opportunity for T4Tech to improve their sales performance by offering exclusive discounts and rewards on MacBook Air Laptops when purchased through the loyalty program. This is because the MacBook Air is a top seller, **yet 90% of its revenue and volume come from non-loyalty members who, on average, spend 10% less than loyalty program members.**  
+•	There is an opportunity for T4Tech to improve their sales performance by offering exclusive discounts and rewards on MacBook Air Laptops when purchased through the loyalty program. This could be effective because the MacBook Air is a top seller, **yet 90% of its revenue and volume come from non-loyalty members who, on average, spend 10% less than loyalty program members.**  
  
 
 # Insights Deep-dive
