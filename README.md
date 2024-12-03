@@ -47,7 +47,8 @@ The dataset consisted of four tables, including information about order dates & 
 
 •	Although 2021 saw an increase in the number of sales, the overall revenue declined as customers opted for items that were, on average, 15% less expensive than those purchased in 2020.
 
-![image](https://github.com/user-attachments/assets/ace2b625-4177-436a-9c9a-dbf928c563e8)
+![image](https://github.com/user-attachments/assets/efff1054-f3d9-42d1-a876-71ad4c45fa04)
+
 
 
 
