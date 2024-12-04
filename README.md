@@ -80,7 +80,7 @@ _The bottom table shows the month-over-month growth rate % between each of the 4
 ![image](https://github.com/user-attachments/assets/5ef1a3d2-f8dd-4861-933c-638973336316)
 
 
-_The bottom table shows the year-over-year growth rate by region_
+_The bottom table shows the year-over-year growth rate % by region_
 
 ## Key Product Performance
 ### Macro-level product trends
