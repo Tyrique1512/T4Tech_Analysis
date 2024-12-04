@@ -77,7 +77,9 @@ _The bottom table shows the month-over-month growth rate % between each of the 4
 
 •	Furthermore, the APAC region has the highest AOV of all the regions, suggesting increased competition in the region and highlighting the need to enhance customer base, product offering and brand awareness.
 
-![image](https://github.com/user-attachments/assets/5fd96eca-cfa6-4fa0-8932-b9338099c7d3)
+![image](https://github.com/user-attachments/assets/51db7e22-41ab-404a-95a0-9d8f835c70d2)
+
+_The bottom table shows the year-over-year growth rate by region_
 
 ## Key Product Performance
 ### Macro-level product trends
