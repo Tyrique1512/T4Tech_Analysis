@@ -120,3 +120,9 @@ _The bottom table shows the month-over-month growth rate % between each of the 4
 
 
 # Recommendations
+
+Given these insights, T4Tech should consider the following recommendations:
+
+**Leverage the loyalty program to boost sales during peak and off-peak seasons**
+
+
