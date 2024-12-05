@@ -108,7 +108,7 @@ _The bottom table shows the year-over-year growth rate % by region_
 
 •	In Q4 2022, non-loyalty members contributed over 60% of total sales revenue and volume, suggesting reduced effectiveness of the loyalty program in driving sales during that period
 
-•	**The MacBook Air remains a top seller, yet 90% of its revenue and volume come from non-loyalty members**, who have had 10% lower order values. This suggests potential revenue growth through loyalty program engagement.
+•	**The MacBook Air is a top seller, yet 90% of its revenue and volume come from non-loyalty members**, who have had 10% lower order values. This suggests potential revenue growth through loyalty program engagement.
 
 ![image](https://github.com/user-attachments/assets/1d473883-671f-4e5c-bd7d-635f086bef26)
 
