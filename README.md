@@ -77,7 +77,8 @@ _The bottom table shows the month-over-month growth rate % between each of the 4
 
 •	Furthermore, the APAC region boasts the highest AOV among all regions, indicating that consumers in this market likely perceive T4Tech's products as premium offerings. This perception positions T4Tech as less accessible in a market largely dominated by more affordable alternatives from competitors.
 
-![image](https://github.com/user-attachments/assets/22b79c60-b3c8-4b76-aa7e-c1c73815b540)
+![image](https://github.com/user-attachments/assets/a9cfdbf5-99c8-446f-a1bb-2a1e70afd575)
+
 
 
 
