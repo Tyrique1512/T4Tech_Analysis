@@ -77,7 +77,8 @@ _The bottom table shows the month-over-month growth rate % between each of the 4
 
 •	Furthermore, the APAC region boasts the highest AOV among all regions, indicating that consumers in this market likely perceive T4Tech's products as premium offerings. This perception positions T4Tech as less accessible in a market largely dominated by more affordable alternatives from competitors.
 
-![image](https://github.com/user-attachments/assets/5ef1a3d2-f8dd-4861-933c-638973336316)
+![image](https://github.com/user-attachments/assets/22b79c60-b3c8-4b76-aa7e-c1c73815b540)
+
 
 
 _The bottom table shows the year-over-year growth rate % by region_
@@ -106,7 +107,11 @@ _The bottom table shows the year-over-year growth rate % by region_
 
 •	In Q4 2022, non-loyalty members contributed over 60% of total sales revenue and volume, suggesting reduced effectiveness of the loyalty program in driving sales during that period
 
-•	**The MacBook Air remains a top seller, yet 90% of its revenue and volume come from non-loyalty members**, who have had lower order values. This suggests potential revenue growth through loyalty program engagement.
+•	**The MacBook Air remains a top seller, yet 90% of its revenue and volume come from non-loyalty members**, who have had 10% lower order values. This suggests potential revenue growth through loyalty program engagement.
+
+![image](https://github.com/user-attachments/assets/1d473883-671f-4e5c-bd7d-635f086bef26)
+
+_The first two tables illustrate the % distribution of loyalty and non-loyalty program members by product. The third table compares the AOV for loyalty program members versus non-loyalty program members across products_
 
 ## Refund Rate Trends
 •	Refunds peaked in 2020 with a 9.2% rate, likely as customers tested new brands and products for remote work setups but regretted some purchases. In that year, the MacBook Air and ThinkPad laptop had the highest refund rates at 17% each.
