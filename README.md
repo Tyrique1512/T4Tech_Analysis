@@ -75,7 +75,7 @@ _The bottom table shows the month-over-month growth rate % between each of the 4
 
 •	The LATAM and APAC regions show significantly lower total sales revenue and volumes compared to other regions, **despite comparable average order values.** 
 
-•	Furthermore, the APAC region has the highest AOV of all the regions, suggesting increased competition in the region and highlighting the need to enhance customer base, product offering and brand awareness.
+•	Furthermore, the APAC region boasts the highest AOV among all regions, indicating that consumers in this market likely perceive T4Tech's products as premium offerings. This perception positions T4Tech as less accessible in a market largely dominated by more affordable alternatives from competitors.
 
 ![image](https://github.com/user-attachments/assets/5ef1a3d2-f8dd-4861-933c-638973336316)
 
