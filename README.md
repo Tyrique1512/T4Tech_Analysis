@@ -127,6 +127,6 @@ _The bottom table shows the year-over-year growth rate % by region_
 
 Given these insights, T4Tech should consider the following recommendations:
 
-**Leverage the loyalty program to boost sales during peak and off-peak seasons**
+**Leverage the loyalty program to drive seasonal promotions**
 
 
