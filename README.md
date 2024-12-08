@@ -20,7 +20,7 @@
 
 Founded in 2018, T4Tech is an e-commerce company specialising in popular electronics, now serving a global customer base. They sell products through their online site and mobile app, utilising marketing channels like email campaigns, SEO, and affiliate links. Their top-selling products include brands like Apple, Samsung, and ThinkPad. T4Tech leverages user data to gain insights that inform strategic decisions, helping them stay competitive in their niche.
 
-The goal of this project is to investigate the overall sales trends and growth rates at T4Tech between 2019 and 2022, together with the performance of its loyalty program and refund rates. This will be leveraged to surface recommendations for the sales and marketing teams for future marketing campaigns and to assess whether T4Tech should continue its Loyalty Programme.
+The goal of this project is to investigate the overall sales trends and growth rates at T4Tech between 2019 and 2022, together with the performance of its loyalty program and refund rates. To evaluate the overall sales trends and growth rates, 3 metrics will be the focus: total sales revenue, order count and average order value (AOV). This will be leveraged to surface recommendations for the sales and marketing teams for future marketing campaigns and to assess whether T4Tech should continue its Loyalty Programme.
 
 # Dataset Structure
 
