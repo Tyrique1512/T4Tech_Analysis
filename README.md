@@ -148,4 +148,14 @@ Given these insights, T4Tech should consider the following recommendations:
 •	In addition, T4Tech should offer flexible financing and bundling options for premium products like the MacBook Air to make them more attainable and appealing to consumers in these regions
 
 
+### Re-evaluate T4Tech's product line-up
 
+**•	Bose SoundSport Headphones:** Consider removal or replacement due to consistently poor sales performance
+
+**•	Samsung Webcam:** The strong initial growth suggests solid customer interest, justifying the Samsung Webcam's place in T4Tech’s lineup. To boost its sales, T4Tech should bundle it with complementary products like the MacBook Air or ThinkPad Laptop, positioning it as an essential work-from-home add-on.
+
+**•	Apple iPhone:** This product is disconnected from T4Tech’s product ecosystem. To address this, future marketing campaigns should highlight its seamless integration with the MacBook Air and Airpods to stimulate sales through bundled purchases. 
+
+### Use the MacBook Air Laptop to stimulate loyalty program growth 
+
+•	Given that the MacBook Air is the most popular product and most of its sales come from non-loyalty program members, T4TEech should offer exclusive discounts and limited promotions on MacBook Air laptops and their accessories when purchased through the Loyalty Program
