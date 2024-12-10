@@ -133,6 +133,11 @@ _The first two tables illustrate the % distribution of loyalty and non-loyalty p
 
 Given these insights, T4Tech should consider the following recommendations:
 
-**Leverage the loyalty program to drive seasonal promotions**
+**Leverage the loyalty program to drive seasonal promotions:**
+
+
+•	**Peak Season:** Offer exclusive seasonal perks to loyalty program members, such as free shipping during peak seasons (November-December), to incentivise joining the loyalty program. This will strengthen loyalty program membership growth and boost total sales revenue and volume, as loyalty members typically spend 10% more per purchase than non-members.
+
+•	**Off-Peak Season:** During slower months like February and October, reward loyalty members with double points, cashback, and additional discounts for referring other customers to join the loyalty program. This referral incentive will expand the loyalty program's customer base ahead of peak spending periods, ultimately strengthening revenue. 
 
 
