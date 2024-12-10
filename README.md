@@ -158,4 +158,4 @@ Given these insights, T4Tech should consider the following recommendations:
 
 ### Use the MacBook Air Laptop to stimulate loyalty program growth 
 
-•	Given that the MacBook Air is the most popular product and most of its sales come from non-loyalty program members, T4TEech should offer exclusive discounts and limited promotions on MacBook Air laptops and their accessories when purchased through the Loyalty Program
+•	Given that the MacBook Air is the most popular product and most of its sales come from non-loyalty program members, T4Tech should offer exclusive discounts and limited promotions on MacBook Air laptops and their accessories when purchased through the Loyalty Program
