@@ -136,7 +136,7 @@ Given these insights, T4Tech should consider the following recommendations:
 #### Leverage the loyalty program to drive seasonal promotions:
 
 
-•	**Peak Season:** Offer exclusive seasonal perks to loyalty program members, such as free shipping during peak seasons (November-December), to incentivise joining the loyalty program. This will strengthen loyalty program membership growth and boost total sales revenue and volume, as loyalty members typically spend 10% more per purchase than non-members.
+•	**Peak Season:** Offer exclusive seasonal perks to loyalty program members, such as free shipping during peak seasons (November-December), to incentivise joining the loyalty program. 
 
 •	**Off-Peak Season:** During slower months like February and October, reward loyalty members with double points, cashback, and additional discounts for referring other customers to join the loyalty program. This referral incentive will expand the loyalty program's customer base ahead of peak spending periods, ultimately strengthening revenue. 
 
@@ -145,16 +145,16 @@ Given these insights, T4Tech should consider the following recommendations:
 
 •	Refine the product range in the APAC and LATAM regions by incorporating more accessible local brands identified through a market demand study, such as Huawei, HP, and Xiaomi. 
 
-•	In addition, T4Tech should offer flexible financing and bundling options for premium products like the MacBook Air to make them more attainable and appealing to consumers in these regions
+•	Offer flexible financing and bundling options for premium products like the MacBook Air to make them more attainable and appealing to consumers in these regions
 
 
 #### Re-evaluate T4Tech's product line-up:
 
 **•	Bose SoundSport Headphones:** Consider removal or replacement due to consistently poor sales performance
 
-**•	Samsung Webcam:** The strong initial growth suggests solid customer interest, justifying the Samsung Webcam's place in T4Tech’s lineup. To boost its sales, T4Tech should bundle it with complementary products like the MacBook Air or ThinkPad Laptop, positioning it as an essential work-from-home add-on.
+**•	Samsung Webcam:** Bundle it with complementary products like the MacBook Air or ThinkPad Laptop, positioning it as an essential work-from-home add-on.
 
-**•	Apple iPhone:** This product is disconnected from T4Tech’s product ecosystem. To address this, future marketing campaigns should highlight its seamless integration with the MacBook Air and Airpods to stimulate sales through bundled purchases. 
+**•	Apple iPhone:** To address the disconnect from other products in T4Tech's line-up, future marketing campaigns should highlight its seamless integration with the MacBook Air and Airpods to stimulate sales through bundled purchases. 
 
 #### Use the MacBook Air Laptop to stimulate loyalty program growth: 
 
