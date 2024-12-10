@@ -158,4 +158,4 @@ Given these insights, T4Tech should consider the following recommendations:
 
 #### Use the MacBook Air Laptop to stimulate loyalty program growth: 
 
-Offer exclusive discounts and limited promotions on MacBook Air laptops and their accessories when purchased through the Loyalty Program
+•	Offer exclusive discounts and limited promotions on MacBook Air laptops and their accessories when purchased through the Loyalty Program
