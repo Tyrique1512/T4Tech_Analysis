@@ -99,7 +99,8 @@ _The bottom table shows the year-over-year growth rate % by region_
 
 •	The MacBook Air ($1588) , ThinkPad laptop ($1100) , and Apple iPhone ($740) consistently have the highest average sales values. **While the Apple iPhone boasts a high average order value, it does not perform well in order count or total revenue contribution.** This indicates a potential opportunity for growth in iPhone sales through financing options or bundling with other products, as T4Tech's customers may see it as an expensive product with limited appeal compared to other products
 
-![image](https://github.com/user-attachments/assets/bfd8ae4c-057d-4a16-8415-3f6ac5ca3540)
+![image](https://github.com/user-attachments/assets/958f40d1-f201-4907-a369-fca9c42cd7ff)
+
 
 
 
