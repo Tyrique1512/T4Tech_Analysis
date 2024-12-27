@@ -55,7 +55,8 @@ The dataset consisted of four tables, including information about order dates & 
 
 
 
-![image](https://github.com/user-attachments/assets/5274cfe9-604f-4174-8598-3d571af4d8e9)
+![image](https://github.com/user-attachments/assets/0d2d11b7-b958-4754-b2ef-b6bc8399b125)
+
 
 
 
@@ -81,7 +82,9 @@ _The bottom table shows the month-over-month growth rate % between each of the 4
 
 •	Furthermore, the APAC region boasts the highest AOV among all regions, indicating that consumers in this market likely perceive T4Tech's products as premium offerings. This perception positions T4Tech as less accessible in a market largely dominated by more affordable alternatives from competitors.
 
-![image](https://github.com/user-attachments/assets/82443e88-6387-4f48-b236-8077ea91a306)
+![image](https://github.com/user-attachments/assets/8502f19b-edd1-4399-a065-3ec1acaafcc2)
+
+
 
 
 
@@ -123,7 +126,8 @@ _The bottom table shows the year-over-year growth rate % by region_
 
 •	**The MacBook Air is a top seller, yet 90% of its revenue and volume come from non-loyalty members**, who have had 10% lower order values. This suggests potential revenue growth through loyalty program engagement.
 
-![image](https://github.com/user-attachments/assets/b0908ade-8b3b-4233-b1ff-5feb8bf409c1)
+![image](https://github.com/user-attachments/assets/469f7cdd-3f18-44ae-87f2-6023c0851e9d)
+
 
 
 
