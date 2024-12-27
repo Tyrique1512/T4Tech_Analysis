@@ -55,7 +55,8 @@ The dataset consisted of four tables, including information about order dates & 
 
 
 
-![image](https://github.com/user-attachments/assets/7f68b1f9-eaaf-4e57-b451-0327225b53f8)
+![image](https://github.com/user-attachments/assets/5274cfe9-604f-4174-8598-3d571af4d8e9)
+
 
 
 
@@ -80,7 +81,8 @@ _The bottom table shows the month-over-month growth rate % between each of the 4
 
 •	Furthermore, the APAC region boasts the highest AOV among all regions, indicating that consumers in this market likely perceive T4Tech's products as premium offerings. This perception positions T4Tech as less accessible in a market largely dominated by more affordable alternatives from competitors.
 
-![image](https://github.com/user-attachments/assets/86236c9f-af49-41a8-846b-c3229eab1fcf)
+![image](https://github.com/user-attachments/assets/785053e4-5ef6-4a31-a99a-3f768b5d464e)
+
 
 
 
@@ -119,7 +121,7 @@ _The bottom table shows the year-over-year growth rate % by region_
 
 •	**The MacBook Air is a top seller, yet 90% of its revenue and volume come from non-loyalty members**, who have had 10% lower order values. This suggests potential revenue growth through loyalty program engagement.
 
-![image](https://github.com/user-attachments/assets/067c7b43-6926-4371-89d1-6f7e160600fe)
+![image](https://github.com/user-attachments/assets/9db7af39-9af4-4d5a-b7dc-bb1d8a05185e)
 
 
 _The first two tables illustrate the % distribution of loyalty and non-loyalty program members by product. The third table compares the AOV for loyalty program members versus non-loyalty program members across products_
