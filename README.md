@@ -58,7 +58,9 @@ The dataset consisted of four tables, including information about order dates & 
 
 
 
-<img src="https://github.com/user-attachments/assets/c80cf1d3-d85f-43b7-a2c1-044ca66b16d9" width="500">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c80cf1d3-d85f-43b7-a2c1-044ca66b16d9" width="500">
+</div>
 
 
 
@@ -89,7 +91,9 @@ _The bottom tables show the month-over-month growth rate % between each of the 4
 
 
 
-<img src="https://github.com/user-attachments/assets/a3b8781c-e56d-4b0f-acfc-29d54d3926f0" width="500">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a3b8781c-e56d-4b0f-acfc-29d54d3926f0" width="500">
+</div>
 
 
 
@@ -135,7 +139,10 @@ _The bottom tables show the year-over-year growth rate % by region_
 
 
 
-<img src="https://github.com/user-attachments/assets/77f5bc26-12a2-47d9-b506-a13566c22046" width="500">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/77f5bc26-12a2-47d9-b506-a13566c22046" width="500">
+</div>
+
 
 
 
