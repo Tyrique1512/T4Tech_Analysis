@@ -132,10 +132,11 @@ _The first two tables illustrate the % distribution of loyalty and non-loyalty p
 
 •	Refund rates dropped sharply after 2020, falling to 3.6% in 2021 and 0% in 2022, **reflecting significant improvements in T4Tech's quality control.**
 
-![image](https://github.com/user-attachments/assets/6d8a26a0-d630-48ab-ad9d-a8b16e090388)
+<img src="https://github.com/user-attachments/assets/6d8a26a0-d630-48ab-ad9d-a8b16e090388" width="500">
 
 
-![image](https://github.com/user-attachments/assets/de88804a-822f-46cd-8ac9-01455dc5b1a5)
+<img src="https://github.com/user-attachments/assets/de88804a-822f-46cd-8ac9-01455dc5b1a5" width="600">
+
 
 
 
