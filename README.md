@@ -53,18 +53,18 @@ The dataset consisted of four tables, including information about order dates & 
 
 
 
-
-
-![image](https://github.com/user-attachments/assets/3b7a6ca9-75b8-43ca-9287-459910483f56)
-
+![image](https://github.com/user-attachments/assets/42dda152-0ef6-455d-a95c-1c238aeb831c)
 
 
 
 
+<img src="https://github.com/user-attachments/assets/c80cf1d3-d85f-43b7-a2c1-044ca66b16d9" width="500">
 
 
 
-_The bottom table shows the month-over-month growth rate % between each of the 4 years_
+
+
+_The bottom tables show the month-over-month growth rate % between each of the 4 years_
 
 ### Seasonality
 •	Total sales revenue and volume typically experience the strongest growth during the holiday season (November to December) each year, with December experiencing around 20% growth on average.
@@ -83,7 +83,13 @@ _The bottom table shows the month-over-month growth rate % between each of the 4
 
 •	Furthermore, the APAC region boasts the highest AOV among all regions, indicating that consumers in this market likely perceive T4Tech's products as premium offerings. This perception positions T4Tech as less accessible in a market largely dominated by more affordable alternatives from competitors.
 
-![image](https://github.com/user-attachments/assets/c2a0d4c6-f211-4233-a738-616acbe9ed52)
+![image](https://github.com/user-attachments/assets/1868a02c-6967-48c2-8ecb-817f8c5e011d)
+
+
+
+
+
+<img src="https://github.com/user-attachments/assets/a3b8781c-e56d-4b0f-acfc-29d54d3926f0" width="500">
 
 
 
@@ -92,10 +98,7 @@ _The bottom table shows the month-over-month growth rate % between each of the 4
 
 
 
-
-
-
-_The bottom table shows the year-over-year growth rate % by region_
+_The bottom tables show the year-over-year growth rate % by region_
 
 ## Key Product Performance
 ### Macro-level product trends
@@ -128,14 +131,16 @@ _The bottom table shows the year-over-year growth rate % by region_
 
 •	**The MacBook Air is a top seller, yet 90% of its revenue and volume come from non-loyalty members**, who have had 10% lower order values. This suggests potential revenue growth through loyalty program engagement.
 
-![image](https://github.com/user-attachments/assets/60fb7e4a-3834-4a56-8114-9fce1d461d60)
+![image](https://github.com/user-attachments/assets/bad2b426-501c-4126-a5fe-2c96d91c8ed6)
+
+
+
+<img src="https://github.com/user-attachments/assets/77f5bc26-12a2-47d9-b506-a13566c22046" width="500">
 
 
 
 
-
-
-_The first two tables illustrate the % distribution of loyalty and non-loyalty program members by product. The third table compares the AOV for loyalty program members versus non-loyalty program members across products_
+_The first two bottom tables illustrate the % distribution of loyalty and non-loyalty program members by product. The third table compares the AOV for loyalty program members versus non-loyalty program members across products_
 
 ## Refund Rate Trends
 •	Refunds peaked in 2020 with a 9.2% rate, likely as customers tested new brands and products for remote work setups but regretted some purchases. In that year, the MacBook Air and ThinkPad laptop had the highest refund rates at 17% each.
