@@ -55,7 +55,7 @@ The dataset consisted of four tables, including information about order dates & 
 
 
 
-![image](https://github.com/user-attachments/assets/a3b68369-056d-422f-978e-ac35e3adab1b)
+![image](https://github.com/user-attachments/assets/5e3c13b0-40e7-4b6d-bb8e-6aa01b287806)
 
 
 
@@ -79,7 +79,8 @@ _The bottom table shows the month-over-month growth rate % between each of the 4
 
 •	Furthermore, the APAC region boasts the highest AOV among all regions, indicating that consumers in this market likely perceive T4Tech's products as premium offerings. This perception positions T4Tech as less accessible in a market largely dominated by more affordable alternatives from competitors.
 
-![image](https://github.com/user-attachments/assets/a9cfdbf5-99c8-446f-a1bb-2a1e70afd575)
+![image](https://github.com/user-attachments/assets/86236c9f-af49-41a8-846b-c3229eab1fcf)
+
 
 
 
@@ -117,7 +118,8 @@ _The bottom table shows the year-over-year growth rate % by region_
 
 •	**The MacBook Air is a top seller, yet 90% of its revenue and volume come from non-loyalty members**, who have had 10% lower order values. This suggests potential revenue growth through loyalty program engagement.
 
-![image](https://github.com/user-attachments/assets/1d473883-671f-4e5c-bd7d-635f086bef26)
+![image](https://github.com/user-attachments/assets/067c7b43-6926-4371-89d1-6f7e160600fe)
+
 
 _The first two tables illustrate the % distribution of loyalty and non-loyalty program members by product. The third table compares the AOV for loyalty program members versus non-loyalty program members across products_
 
@@ -130,9 +132,10 @@ _The first two tables illustrate the % distribution of loyalty and non-loyalty p
 
 •	Refund rates dropped sharply after 2020, falling to 3.6% in 2021 and 0% in 2022, **reflecting significant improvements in T4Tech's quality control.**
 
-![image](https://github.com/user-attachments/assets/5d62123f-3f9f-4f74-af11-42934dd865d8)
+![image](https://github.com/user-attachments/assets/6d8a26a0-d630-48ab-ad9d-a8b16e090388)
 
 
+![image](https://github.com/user-attachments/assets/de88804a-822f-46cd-8ac9-01455dc5b1a5)
 
 
 
