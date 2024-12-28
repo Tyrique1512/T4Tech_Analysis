@@ -58,14 +58,6 @@ The dataset consisted of four tables, including information about order dates & 
 
 
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/c80cf1d3-d85f-43b7-a2c1-044ca66b16d9" width="500">
-</div>
-
-
-
-
-
 _The bottom tables show the month-over-month growth rate % between each of the 4 years_
 
 ### Seasonality
