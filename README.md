@@ -53,7 +53,8 @@ The dataset consisted of four tables, including information about order dates & 
 
 
 
-![image](https://github.com/user-attachments/assets/42dda152-0ef6-455d-a95c-1c238aeb831c)
+![image](https://github.com/user-attachments/assets/65c89a5c-85f5-4122-89c7-1ef234c58349)
+
 
 
 
@@ -125,9 +126,7 @@ _The bottom tables show the year-over-year growth rate % by region_
 
 
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/77f5bc26-12a2-47d9-b506-a13566c22046" width="500">
-</div>
+![image](https://github.com/user-attachments/assets/3bd6122a-1ddf-42aa-8223-a86a8f92badd)
 
 
 
