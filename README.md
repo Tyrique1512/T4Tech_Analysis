@@ -126,7 +126,8 @@ _The bottom tables show the year-over-year growth rate % by region_
 
 
 
-![image](https://github.com/user-attachments/assets/3bd6122a-1ddf-42aa-8223-a86a8f92badd)
+![image](https://github.com/user-attachments/assets/706bbb20-a5cc-4682-97f9-70cf68aac106)
+
 
 
 
